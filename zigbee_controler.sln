@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zigbee_controler", "zigbee_controler\zigbee_controler.csproj", "{03D7842C-3250-4D0E-AE72-E8A6858DC76D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03D7842C-3250-4D0E-AE72-E8A6858DC76D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03D7842C-3250-4D0E-AE72-E8A6858DC76D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03D7842C-3250-4D0E-AE72-E8A6858DC76D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03D7842C-3250-4D0E-AE72-E8A6858DC76D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
